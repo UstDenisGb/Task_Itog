@@ -1,0 +1,15 @@
+/Users/denisustancev/Task_Itog/Task/bin/Debug/net6.0/Task
+/Users/denisustancev/Task_Itog/Task/bin/Debug/net6.0/Task.deps.json
+/Users/denisustancev/Task_Itog/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/denisustancev/Task_Itog/Task/bin/Debug/net6.0/Task.dll
+/Users/denisustancev/Task_Itog/Task/bin/Debug/net6.0/Task.pdb
+/Users/denisustancev/Task_Itog/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/denisustancev/Task_Itog/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisustancev/Task_Itog/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/denisustancev/Task_Itog/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/denisustancev/Task_Itog/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/denisustancev/Task_Itog/Task/obj/Debug/net6.0/Task.dll
+/Users/denisustancev/Task_Itog/Task/obj/Debug/net6.0/refint/Task.dll
+/Users/denisustancev/Task_Itog/Task/obj/Debug/net6.0/Task.pdb
+/Users/denisustancev/Task_Itog/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/denisustancev/Task_Itog/Task/obj/Debug/net6.0/ref/Task.dll
